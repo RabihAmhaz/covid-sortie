@@ -1,7 +1,7 @@
 # [https://vik.io/sortie](https://vik.io/sortie)
-Un formulaire en ligne pour simplifier l'attestation de sortie pendant le confinement.
+Un formulaire en ligne pour simplifier l'attestation de sortie pendant le confinement en France.
 
-J'ai fait ceci dans le but de m'aider moi meme et mes amis, mais vu que vous êtes tous chez vous aujourd'hui ça a forcément dégénéré et vous avez surchargé mon serveur :D
+La version initiale est faite pour un but personnelle à vikbez et pour ses amis, mais vu que vous êtes tous chez vous aujourd'hui ça a forcément dégénéré et vous avez surchargé son serveur :D
 
 Si vous avez des doutes pour vos données; vous pouvez demander à un ami développeur son avis (pas de suspense, il vous dira que tout est ok).
 
